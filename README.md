@@ -45,4 +45,4 @@ All files within this repository are licensed under the MIT License unless expli
 
 100% Open Source software.
 
-© 2023 [Calyptus] (https://www.calyptus.co) - See [LICENSE](https://opensource.org/license/mit/) for details.
+© 2023 [Calyptus](https://www.calyptus.co) - See [LICENSE](https://opensource.org/license/mit/) for details.
